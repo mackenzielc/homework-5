@@ -4,7 +4,9 @@
 
 A calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. It also utilizes the [Moment.js](https://momentjs.com/) library to work with date and time. 
 
-Deployed link: 
+Deployed link: https://mackenzielc.github.io/homework-5/ 
+
+![alt text](./workDayScheduler.png)
 
 
 ## User Story
@@ -32,3 +34,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## Resources Used
+* https://getbootstrap.com/docs/4.0/components/jumbotron/ 
+* https://getbootstrap.com/docs/4.0/components/input-group/ 
